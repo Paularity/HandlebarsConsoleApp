@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\oradata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\oradata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\retainer-agreement-template.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\retainer-agreement-template.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\handlebarsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\handlebarsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\resume_template.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\resume_template.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\models\\oramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\models\\oramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|c:\\users\\admin\\documents\\github\\handlebarsconsoleapp\\handlebarsconsoleapp\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{639C2AA6-1545-4B4B-9E00-3E47CC8D807E}|HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj|solutionrelative:handlebarsconsoleapp\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ORAModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\Models\\ORAModel.cs",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\Models\\ORAModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\Models\\ORAModel.cs",
+              "RelativeToolTip": "HandlebarsConsoleApp\\Models\\ORAModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:10:19.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ORAData.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\ORAData.json",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\ORAData.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\ORAData.json",
+              "RelativeToolTip": "HandlebarsConsoleApp\\ORAData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T07:09:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "retainer-agreement-template.hbs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\retainer-agreement-template.hbs",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\retainer-agreement-template.hbs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\retainer-agreement-template.hbs",
+              "RelativeToolTip": "HandlebarsConsoleApp\\retainer-agreement-template.hbs",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAmwIUBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T07:06:51.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandlebarsConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj",
+              "RelativeToolTip": "HandlebarsConsoleApp\\HandlebarsConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T07:08:51.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\data.json",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\data.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\data.json",
+              "RelativeToolTip": "HandlebarsConsoleApp\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T04:04:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\styles.css",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\styles.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\styles.css",
+              "RelativeToolTip": "HandlebarsConsoleApp\\styles.css",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwFcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-18T07:40:53.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resume_template.hbs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\resume_template.hbs",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\resume_template.hbs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\resume_template.hbs",
+              "RelativeToolTip": "HandlebarsConsoleApp\\resume_template.hbs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T07:24:55.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HandlebarsConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\HandlebarsConsoleApp\\HandlebarsConsoleApp\\Program.cs",
+              "RelativeToolTip": "HandlebarsConsoleApp\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:31:55.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

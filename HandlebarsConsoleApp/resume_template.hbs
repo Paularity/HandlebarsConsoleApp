@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{Name}}'s Resume</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Armon Consultancy</h1>
+            <div class="profile-img-container">
+                <img class="w-100" src="{{ProfileImageUri}}" alt="profile-image" />
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Personal Data</div>
+            <div class="section-body">
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Position Desired:</b> <u>{{PositionDesired}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Date:</b> <u>{{Date}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Name:</b> <u>{{Name}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Gender:</b> <u>{{Gender}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p><b>Address:</b> <u>{{Address}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Phone Number:</b> <u>{{PhoneNumber}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>E-Mail Address:</b> <u>{{EmailAddress}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Date of Birth:</b> <u>{{DateOfBirth}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Civil Status:</b> <u>{{CivilStatus}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Citizenship:</b> <u>{{Citizenship}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Height (in cm):</b> <u>{{Height}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Weight (in kg):</b> <u>{{Weight}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Spouse:</b> <u>{{Spouse}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Occupation:</b> <u>{{SpouseOccupation}}</u></p>
+                    </div>
+                </div>
+                {{#each Children}}
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>{{#if @first}}Name of Children{{/if}}:</b> <u>{{Name}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Date of Birth:</b> <u>{{DateOfBirth}}</u></p>
+                    </div>
+                </div>
+                {{/each}}
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Father:</b> <u>{{Father}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>DateOfBirth:</b> <u>{{FatherDateOfBirth}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <p><b>Mother:</b> <u>{{Mother}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>DateOfBirth:</b> <u>{{MotherDateOfBirth}}</u></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p><b>Language or dialect spoken and written:</b> {{#each LanguagesSpoken}} <u>{{this}} {{#unless @last}}, {{/unless}}</u> {{/each}}</p>
+                    </div>                   
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="section-title">Educational Background</div>
+            <div class="section-body">
+                {{#each Education}}
+    <div class="row mb-3">
+        <div class="col-4">
+            <p><b>Institution:</b> <u>{{Institution}}</u></p>
+        </div>
+        <div class="col-4">
+            <p><b>Degree:</b> <u>{{Degree}}</u></p>
+        </div>
+        <div class="col-4">
+            <p><b>Date Graduated:</b> <u>{{GraduationYear}}</u></p>
+        </div>
+    </div>
+    {{/each}}
+</div>            
+        </div>
+
+        <div class="section">
+            <div class="section-title">Employment Record</div>
+            <div class="section-body">
+                {{#each WorkExperience}}
+                <div class="row mb-3">
+                    <div class="col-12">
+                        <p><b>Company Name:</b> <u>{{Company}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <p><b>Position:</b> <u>{{Title}}</u></p>
+                    </div>
+                    <div class="col-6">
+                        <div class="d-flex flex-row justify-content-between">
+                            <p><b>From:</b> <u>{{StartDate}}</u></p>
+                            <p><b>To:</b> <u>{{EndDate}}</u></p>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+
+        </div>
+        <!--<div class="footer">
+            Footer here..
+        </div>-->
+    </div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+{
+  "ProfileImageUri": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png",
+  "PositionDesired": "Software Developer",
+  "Date": "Mar 22, 2024",
+  "Name": "Victor Wembanyama II",
+  "Gender": "Male",
+  "Address": "San Antonio Spurs, Pampanga, Philippines 2009",
+  "PhoneNumber": "+639123456789",
+  "EmailAddress": "victor.wemby@gmail.com",
+  "DateOfBirth": "Dec 31, 1997",
+  "CivilStatus": "Single",
+  "Citizenship": "Filipino",
+  "Height": 272.65,
+  "Weight": 70,
+  "Spouse": "Emma Griffin",
+  "SpouseOccupation": "Teacher",
+  "Children": [
+    {
+      "Name": "George Wembanyama",
+      "DateOfBirth": "Mar 15, 2010"
+    },
+    {
+      "Name": "Shane Wembanyama",
+      "DateOfBirth": "Jul 20, 2012"
+    },
+    {
+      "Name": "Lexa Wembanyama",
+      "DateOfBirth": "Oct 05, 2015"
+    }
+  ],
+  "Father": "John Wembanyama",
+  "FatherDateOfBirth": "May 15, 1965",
+  "Mother": "Mary Wembanyama",
+  "MotherDateOfBirth": "Aug 25, 1970",
+  "LanguagesSpoken": [
+    "English",
+    "French",
+    "Tagalog"
+  ],
+  "EmergencyPersonContact": "Emergency Contact",
+  "PersonContactPhoneNumber": "+639987654321",
+  "WorkExperience": [
+    {
+      "Title": "Software Engineer",
+      "Company": "ABC Inc.",
+      "StartDate": "March 01, 2018",
+      "EndDate": "August 9, 2022"
+    },
+    {
+      "Title": "Software Developer",
+      "Company": "DCE Corp",
+      "StartDate": "August 31, 2022",
+      "EndDate": "March 20, 2024"
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "Bachelor of Science in Computer Science",
+      "Institution": "XYZ University",
+      "GraduationYear": "Jan. 01, 2018"
+    },
+    {
+      "Degree": "High School",
+      "Institution": "Holy Angel University",
+      "GraduationYear": "Jan. 01, 2014"
+    }
+  ]
+}
